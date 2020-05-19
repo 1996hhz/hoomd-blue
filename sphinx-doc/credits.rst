@@ -35,6 +35,10 @@ Aaron Keys, University of Michigan
   * binary restart files
   * integrate.mode_minimize_fire
 
+Andrew Schultz, University at Buffalo
+
+  * Harmonically Mapped Averaging implementation
+
 Axel Kohlmeyer, David LeBard, Ben Levine, from the ICMS group at Temple University
 
   * pair.cgcmm
@@ -287,10 +291,17 @@ Luis Rivera-Rivera, University of Michigan
 
   * ``hoomd.dump.gsd.dump_shape`` implementation
 
-
 Alex Yang, Vanderbilt University
 
   * ``hoomd.md.dihedral.harmonic`` update for phase shift
+
+Geert Kapteijns, University of Amsterdam
+
+  * Bug fixes.
+
+Simone Ciarella, Wouter Ellenbroek, Eindhoven University of Technology
+
+ * Add RevCross potential
 
 HPMC developers
 ---------------
@@ -398,10 +409,6 @@ William Zygmunt, Luis Rivera-Rivera, University of Michigan
 
  * Patchy interaction support in HPMC CPU integrators
  * GSD state bug fixes
-
-Simone Ciarella, Wouter Ellenbroek, Eindhoven University of Technology
-
- * RevCross potential
 
 DEM developers
 --------------
